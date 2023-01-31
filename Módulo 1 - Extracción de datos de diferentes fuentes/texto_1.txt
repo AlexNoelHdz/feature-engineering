@@ -1,0 +1,4 @@
+Ana, 1, 10
+Beto, 1.1, 10
+Alfredo, 6, 9
+Armando, 5, 9
